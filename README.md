@@ -15,4 +15,4 @@
 
 * Items that should be brought for maximum enjoyment.
     * Indian currency.
-    * No need to bring anything we have everything for enjoyment.
+    * No need to bring anything we have everything for enjoyment
