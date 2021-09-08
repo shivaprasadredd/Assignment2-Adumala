@@ -22,11 +22,11 @@
 
     ## Table creation.
     Food/drinks that I would recommend someone try.
-| Food/Drinks | Location | Price($) |
-| --------------- | --------------- | --------------- |
-| Burger | Mc Donalds | 3$ |
-| Milk Shake | Hungry Jacks | 2$|
-| Fries | Kfc | 2$|
+| Food/Drinks | Location     | Price($) |
+| ------------| ---------    | -------- |
+| Burger      | Mc Donalds   | 3$       |
+| Milk Shake  | Hungry Jacks | 2$       |
+| Fries       | Kfc          | 2$       |
 
 
 
