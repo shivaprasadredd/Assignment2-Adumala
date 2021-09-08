@@ -16,3 +16,18 @@
 * Items that should be brought for maximum enjoyment.
     * Indian currency.
     * No need to bring anything we have everything for enjoyment
+    [commentator](aboutme.md)
+
+    ---
+
+    ## Table creation.
+    Food/drinks that I would recommend someone try.
+|Food/Drinks | Location  | Price($) |
+|------------| --------- | ----- |
+| burger     | hungry jacks   | 2$  |
+| wings      | Tgi fridays    | 15  |
+| fries      | mc donalds     | 1$  |
+|ice cream   | gelato messina | 6$  |
+| tacos      | guzman gomez   |  10$|
+
+
