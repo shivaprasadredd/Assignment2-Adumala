@@ -20,8 +20,10 @@
 
     ---
 
-    ## Table creation.
-    Food/drinks that I would recommend someone try.
+ ## Table creation.
+
+ Food/drinks that I would recommend someone try.
+
 | Food/Drinks | Location     | Price($) |
 | ------------| ---------    | -------- |
 | Burger      | Mc Donalds   | 3$       |
